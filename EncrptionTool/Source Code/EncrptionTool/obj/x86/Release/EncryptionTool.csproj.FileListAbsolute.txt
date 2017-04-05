@@ -1,0 +1,7 @@
+C:\Users\Shali\Desktop\SSS Assignments\EncrptionTool\EncrptionTool\obj\x86\Release\EncryptionTool.Pr0t3ct3d.resources
+C:\Users\Shali\Desktop\SSS Assignments\EncrptionTool\EncrptionTool\obj\x86\Release\EncryptionTool.Properties.Resources.resources
+C:\Users\Shali\Desktop\SSS Assignments\EncrptionTool\EncrptionTool\obj\x86\Release\EncryptionTool.csproj.GenerateResource.Cache
+C:\Users\Shali\Desktop\SSS Assignments\EncrptionTool\EncrptionTool\bin\Release\EncryptionTool.exe
+C:\Users\Shali\Desktop\SSS Assignments\EncrptionTool\EncrptionTool\bin\Release\EncryptionTool.pdb
+C:\Users\Shali\Desktop\SSS Assignments\EncrptionTool\EncrptionTool\obj\x86\Release\EncryptionTool.exe
+C:\Users\Shali\Desktop\SSS Assignments\EncrptionTool\EncrptionTool\obj\x86\Release\EncryptionTool.pdb
